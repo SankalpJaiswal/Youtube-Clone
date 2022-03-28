@@ -1,0 +1,22 @@
+#navbar{
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+    
+    
+}
+
+#logo{
+    height: 50px;
+    width: 100px;
+}
+
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin-top: 30px;
+}
